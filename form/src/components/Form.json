@@ -1,0 +1,7 @@
+{
+    "name":"text",
+    "email":"email",
+    "dept":"text",
+    "phone":"tel",
+    "verified":"checkbox"
+}
